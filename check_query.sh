@@ -1,0 +1,2 @@
+# Checks Leaderboard query
+duckdb -c 'CREATE TEMP TABLE results AS SELECT * FROM read_json_auto("results/*.json");' -c 'SELECT ts.participants.purple_agent as id, result.num_queries, result.correctness, result.contradictions, result.overlap, result.time_taken FROM results ts CROSS JOIN UNNEST(ts.results) AS r(result) GROUP BY id, result ORDER BY result.overlap DESC'
