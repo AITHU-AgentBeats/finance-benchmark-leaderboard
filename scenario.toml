@@ -22,5 +22,5 @@ env = {}
 # Or all otherwise
 type = ""
 
-# For specific index in question type
+# For specific index in question type (comment for whole set)
 query_index = ""
