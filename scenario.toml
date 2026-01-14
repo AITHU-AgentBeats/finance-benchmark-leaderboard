@@ -21,6 +21,5 @@ env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}", MCP_SERVER =  "http://green-agent:
 #
 # Or all otherwise
 type = "Adjustments"
-
 # For specific index in question type (comment for whole set)
 # query_index = "1"
