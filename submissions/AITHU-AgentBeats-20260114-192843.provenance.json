@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/aithu-agentbeats/finance-green-agent@sha256:c066adf60568b4dd5b007ff183afabc9e34b770035ede23af17ef55361d5211c",
+    "purple_agent": "ghcr.io/aithu-agentbeats/finance-purple-agent@sha256:2b9764b34f054fcfaeed597fb31a5817b8244101af369f870779585d690462dd",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-14T19:28:43Z",
+  "github_actions": {
+    "run_url": "https://github.com/AITHU-AgentBeats/finance-benchmark-leaderboard/actions/runs/21007077773",
+    "run_logs_url": "https://api.github.com/repos/AITHU-AgentBeats/finance-benchmark-leaderboard/actions/runs/21007077773/logs",
+    "ref": "refs/heads/model/hermes-405B",
+    "sha": "637b173d686d42ca757d414d8436a798ac161c01",
+    "repository_url": "https://github.com/AITHU-AgentBeats/finance-benchmark-leaderboard",
+    "workflow_ref": "AITHU-AgentBeats/finance-benchmark-leaderboard/.github/workflows/run-scenario.yml@refs/heads/model/hermes-405B",
+    "workflow_sha": "637b173d686d42ca757d414d8436a798ac161c01"
+  }
+}
