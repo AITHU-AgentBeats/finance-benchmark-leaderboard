@@ -1,0 +1,14 @@
+{
+  "participants": {
+    "purple_agent": "019bb8a1-d7fe-72f1-82c2-4e2bf595e642"
+  },
+  "results": [
+    {
+      "num_queries": 4,
+      "time_taken": 0.0042895887295405066,
+      "correctness": 0.0,
+      "overlap": 0.0,
+      "contradictions": 0.75
+    }
+  ]
+}
