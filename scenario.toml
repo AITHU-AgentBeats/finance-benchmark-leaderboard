@@ -1,7 +1,6 @@
 [green_agent]
 agentbeats_id = "019bb88c-099e-7e73-93c8-d17e7a59866a"
-env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}", LOG_LEVEL = "INFO", MODEL_PROVIDER = "nebius", SERPAPI_API_KEY = "${SERPAPI_API_KEY}", EDGAR_API_KEY = "${EDGAR_API_KEY}"
-}
+env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}", LOG_LEVEL = "INFO", MODEL_PROVIDER = "nebius", SERPAPI_API_KEY = "${SERPAPI_API_KEY}", EDGAR_API_KEY = "${EDGAR_API_KEY}"}
 
 [[participants]]
 agentbeats_id = ""
